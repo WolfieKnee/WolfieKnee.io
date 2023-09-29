@@ -1,7 +1,8 @@
 # WolfieKnee.io
 A page to hold blog-like information and pointers to my digital portfolio
 
-## here is my LinkedIn
+## here is my LinkedIn 
+<a href = https://www.linkedin.com/in/david-wolfson-6149a38/>
 
 ## here are things do do with pivoting to a Digital Health Career
 
