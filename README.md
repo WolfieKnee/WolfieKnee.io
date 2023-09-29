@@ -1,7 +1,7 @@
 # WolfieKnee.io
 A page to hold blog-like information and pointers to my digital portfolio
 
-## here is my (href=https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")
+## here is my [LinkedIn](href=https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")
 
 ## here are things to do with pivoting to a Digital Health Career
 
