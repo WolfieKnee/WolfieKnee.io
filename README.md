@@ -14,7 +14,7 @@ A page to hold blog-like information and pointers to my digital portfolio. When 
    * I'd like to emmulate their approach and technology stack in any training or personal projects that I do so [Luke Strange](https://open-innovations.org/search/?author=lstrange) was kind enough to point me to this overview of the [Open Innovations Platform](https://open-innovations.github.io/platform/)
    * Of particualr interest is the (Open Data Saves Lives) project. 
  * https://openehr.org/ which [Ian McNicoll](https://www.linkedin.com/in/ianmcnicoll/) told me about during a hack at Aire Innovates during the Leeds Digtial Festival 2023
- * [Florence](https://www.health.org.uk/news-and-comment/featured-content/power-of-people/flo) (or Flo) text message based system for home blood pressure reporting.
+ * [Florence](https://www.health.org.uk/news-and-comment/featured-content/power-of-people/flo) (or Flo) text message based system for home blood pressure reporting (Ian McNicoll also told me about this).
    * I'd be interested in understanding if this coudl flow directed to an EHR.
    * Also, could this be integrated into the NHS App
    * could one create an app to capture BP reading from a machine (home or clinical) and push this through? it shoudl be possible to do this with fewer transposition errors, and could be impletmented with the hundreds of thousands of un-connected monitors already in hospitals, clinics and peoples homes...
