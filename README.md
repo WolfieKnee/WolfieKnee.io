@@ -6,6 +6,10 @@ A page to hold blog-like information and pointers to my digital portfolio. When 
 ## here is my [LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")
 
 ## here are things to do with pivoting to a Digital (Health) Tech Career
+ ### training and skills
+ * https://northcoders.com/our-courses/coding-bootcamp
+
+### resources 
  * Lume
 
 ## here are interesting data projects in health that I'd like to do something about
