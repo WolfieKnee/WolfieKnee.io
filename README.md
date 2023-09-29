@@ -1,4 +1,4 @@
-# WolfieKnee.io - A page for David Wolfson
+#A page for David Wolfson
 A page to hold blog-like information and pointers to my digital portfolio. When it is a bit more ready I should redirect my [personal url:davidwolfson.co.uk](davidwolfson.co.uk) to this, but for now it can stay pointing to [my LinkedIn profile](https://www.linkedin.com/in/david-wolfson-6149a38/)
 
 (note:Since this is currently in raw markdown on github.io this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html) is going to be helpful.)
