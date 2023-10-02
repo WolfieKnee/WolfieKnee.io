@@ -1,9 +1,14 @@
 #A page for David Wolfson
-A page to hold blog-like information and pointers to my digital portfolio. When it is a bit more ready I should redirect my [personal url:davidwolfson.co.uk](davidwolfson.co.uk) to this, but for now it can stay pointing to [my LinkedIn profile](https://www.linkedin.com/in/david-wolfson-6149a38/)
+A page to hold blog-like information and pointers to my digital portfolio, hosted on [my gitHub](https://github.com/WolfieKnee/).
+## my plan for this page:
+a lot of this is inspired by [open innovations](https://open-innovations.org/)...
+* when it is a bit more ready I should redirect my [personal url:davidwolfson.co.uk](davidwolfson.co.uk) to this, but for now it can stay pointing to [my LinkedIn profile](https://www.linkedin.com/in/david-wolfson-6149a38/)
+* turn the sections below into seperate pages - I need to find out how to then link to these on gitHub, which shouldn't be hard but isn't important just now
+* add some style and structure. possibly through Lume
 
 (note:Since this is currently in raw markdown on github.io this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html) is going to be helpful.)
 
-## here is my [LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")
+//## here is my [LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")
 
 ## resources for getting going with digital projects
  * [a link to my own gitHub](https://github.com/WolfieKnee/)
