@@ -7,7 +7,7 @@ A page to hold blog-like information and pointers to my digital portfolio. When 
 
 ## resources for getting going with digital projects
  * [a link to my own gitHub](https://github.com/WolfieKnee/)
- * [MDM JS reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript]
+ * [MDM JS reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  * [codewars](https://www.codewars.com/)
  * [code kata](http://codekata.com/)
  * https://playcode.io/javascript : I need to get a local install up and running, but in the meantime this is good the the various javascript katas and training I'm working on
