@@ -15,7 +15,7 @@ a lot of this is inspired by [open innovations](https://open-innovations.org/)..
  * [MDM JS reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  * [codewars](https://www.codewars.com/)
  * [code kata](http://codekata.com/)
- * https://playcode.io/javascript : I need to get a local install up and running, but in the meantime this is good the the various javascript katas and training I'm working on
+ * (https://playcode.io/javascript) : I need to get a local install up and running, but in the meantime this is good the the various javascript katas and training I'm working on
  * Lume
 ## here are things to do with pivoting to a Digital (Health) Tech Career
 I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4kNrJ43kaHIns3qNJZ93_lk/edit?usp=sharing) for my actions on this. (This one is staying private for now, but I'd like to get useful links up publicly for others to see.) 
