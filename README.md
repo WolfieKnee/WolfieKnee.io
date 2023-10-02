@@ -6,8 +6,17 @@ A page to hold blog-like information and pointers to my digital portfolio. When 
 ## here is my [LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")
 
 ## here are things to do with pivoting to a Digital (Health) Tech Career
+I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4kNrJ43kaHIns3qNJZ93_lk/edit?usp=sharing) for my actions on this. (This one is staying private for now, but I'd like to get useful links up publicly for others to see.) 
 ### training and skills
- * https://northcoders.com/our-courses/coding-bootcamp
+ * [northcoders] (https://northcoders.com/our-courses/coding-bootcamp): as for October 2023 I've completed the practice challenges for this and am waiting to book an entry challgene for the November 2023 Software Developmer bootcamp. 
+ * [the coders guild] (https://thecodersguild.org.uk/course-directory/#courses)
+
+### Interesting companies for potential roles
+ * 
+
+### jobsearch resources
+* https://superpower.tech/
+
 
 ### resources 
  * Lume
