@@ -22,19 +22,43 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
 ### training and skills
  * [northcoders](https://northcoders.com/our-courses/coding-bootcamp): as for October 2023 I've completed the practice challenges for this and am waiting to book an entry challgene for the November 2023 Software Developmer bootcamp. 
  * [the coders guild](https://thecodersguild.org.uk/course-directory/#courses)
+ * Generation UK
+ * the [ddat capability framework](https://ddat-capability-framework.service.gov.uk/) defines skills for different government roles at differnt levels
 ### Interesting companies for potential roles
  * 
 ### jobsearch resources
 * https://superpower.tech/
+
+### events
+* 29-30 November 2023, Faculty of Clinical Informatics /(FCI)[https://fci.org.uk/] are holding their [4th Annual Scientific Conference](https://fci.org.uk/events/fci-annual-scientific-conference-2023.html)
+* 9-10 November 2023, Chester: [bcs](https://www.bcs.org/) have their [Primary Health Care SG Education day, AGM and 42nd Annual conference 2023](https://www.bcs.org/membership-and-registrations/member-communities/primary-health-care-specialist-group/conferences-and-events/phcsg-agm-and-annual-conference-2023/#:~:text=The%20main%20Conference%20starts%20on,delegate%20on%20Friday%2010th%20November%2C.)
+* 14-15 October 2023, Leicester: There is an [NHS hackday](https://nhshackday.com/events/2023/10/leicester) but this is a weekend so probably won't fly... does the site have other events? it certainly has some good resources!
+2023/#:~:text=The%20main%20Conference%20starts%20on,delegate%20on%20Friday%2010th%20November%2C.)
+* a list of #ldf2023 events that I went to...
+  * 
+### organisations
+ * [simple shared healthcare](https://www.simple.uk.net/)
+ * [bitjam](https://bitjam.org.uk/)
+
 ## here are interesting data projects in health that I'd like to do something about
  * I really like the work and approach that [Open Innovations](https://open-innovations.org/) do.
    * I'd like to emmulate their approach and technology stack in any training or personal projects that I do so [Luke Strange](https://open-innovations.org/search/?author=lstrange) was kind enough to point me to this overview of the [Open Innovations Platform](https://open-innovations.github.io/platform/)
-   * Of particualr interest is the (Open Data Saves Lives) project. 
- * [openEHR](https://openehr.org/) which [Ian McNicoll](https://www.linkedin.com/in/ianmcnicoll/) told me about during a hack at Aire Innovates during the Leeds Digtial Festival 2023
- * [Florence](https://www.health.org.uk/news-and-comment/featured-content/power-of-people/flo) (or Flo) text message based system for home blood pressure reporting (Ian McNicoll also told me about this).
+   * Of particualr interest is the (Open Data Saves Lives) project.
+   * I'd like to read more about the [open outcomes](ahttps://apperta.org/openOutcomes/) project as well. This may have some info under the [Apperta Foundation gitHub](https://github.com/AppertaFoundation), and the [Clinical Knowledge Manager /(CKM)](https://ckm.apperta.org/ckm/) also looks interesting.
+  
+
+### there was a lot of useful learning from #ldf2023, especially the hack at Aire Innovates 
+ * [openEHR](https://openehr.org/) which [Ian McNicoll](https://www.linkedin.com/in/ianmcnicoll/) told me about, in particualr, see the [specifications](https://specifications.openehr.org/) section.
+ * [SNOMED](https://www.snomed.org/)
+ * [UKCore Hackathon materials](https://simplifier.net/guide/UKCore-Hackathon/)
+ * [FHIR UK Core](https://digital.nhs.uk/services/fhir-uk-core)
+   * https://simplifier.net/HL7FHIRUKCoreR4/~guides
+   * https://simplifier.net/guide/uk-core-implementation-guide?version=current
+ * [Florence](https://florence.community/) (or Flo) text message based system for home blood pressure reporting (Ian McNicoll also told me about this).
    * I'd be interested in understanding if this could flow directed to an EHR.
    * Also, could this be integrated into the NHS App
    * could one create an app to capture BP reading from a machine (home or clinical) and push this through? it shoudl be possible to do this with fewer transposition errors, and could be impletmented with the hundreds of thousands of un-connected monitors already in hospitals, clinics and peoples homes...
+
 
 ## and here are things to do with past career
 ### my PhD and research work
