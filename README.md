@@ -8,7 +8,7 @@ a lot of this is inspired by [open innovations](https://open-innovations.org/)..
 
 (note:Since this is currently in raw markdown on github.io this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html) is going to be helpful.)
 
-//## here is my [LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")
+## here is my [LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")
 
 ## resources for getting going with digital projects
  * [a link to my own gitHub](https://github.com/WolfieKnee/)
