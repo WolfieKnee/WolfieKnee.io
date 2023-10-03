@@ -1,4 +1,4 @@
-#A page for David Wolfson
+# David Wolfson
 A page to hold blog-like information and pointers to my digital portfolio, hosted on [my gitHub](https://github.com/WolfieKnee/).
 ## my plan for this page:
 a lot of this is inspired by [open innovations](https://open-innovations.org/)...
