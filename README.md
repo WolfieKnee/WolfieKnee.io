@@ -1,3 +1,7 @@
+---
+title: David Wolfson
+---
+
 # David Wolfson
 A page to hold blog-like information and pointers to my digital portfolio, hosted on [my gitHub](https://github.com/WolfieKnee/).
 ## my plan for this page:
