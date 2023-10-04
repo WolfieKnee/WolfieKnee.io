@@ -1,38 +1,38 @@
 # David Wolfson
+**[LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")**
+
 A page to hold blog-like information and pointers to my digital portfolio, hosted on [my gitHub](https://github.com/WolfieKnee/).
+
+[career](medicalDevices.md)|[resume](resume.md)|[projects](projects.md)|[events](events.md)|[other interests](otherInterests.md)
+|---|---|---|---|---|
+
 ## my plan for this page:
 a lot of this is inspired by [open innovations](https://open-innovations.org/)...
 * when it is a bit more ready I should redirect my [personal url: davidwolfson.co.uk](davidwolfson.co.uk) to this, but for now it can stay pointing to [my LinkedIn profile](https://www.linkedin.com/in/david-wolfson-6149a38/)
-* turn the sections below into seperate pages - I need to find out how to then link to these on gitHub, which shouldn't be hard but isn't important just now
-* add some style and structure. possibly through Lume
+* add some style and structure, possibly through Lume. [Andy Bell's site](https://andy-bell.co.uk/) might be a good inspiration for this.
 
-(note:Since this is currently in raw markdown on github.io this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html) is going to be helpful.)
+(note: Since this is currently in raw markdown on github.io this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html) is going to be helpful.)
 
-## [LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")
-## [events](events.md)
-## [resume](resume.md)
-
-
-## resources for getting going with digital projects
+## resources for getting going with general digital projects
  * a link to my own [gitHub](https://github.com/WolfieKnee/)
  * [MDM JS reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  * [codewars](https://www.codewars.com/)
  * [code kata](http://codekata.com/)
- * (https://playcode.io/javascript) : I need to get a local install up and running, but in the meantime this is good the the various javascript katas and training I'm working on
  * Lume
  * YAML
- * JSON
- * https://andy-bell.co.uk/
+ * JSON 
 
 ## here are things to do with pivoting to a Digital (Health) Tech Career
 I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4kNrJ43kaHIns3qNJZ93_lk/edit?usp=sharing) for my actions on this. (This one is staying private for now, but I'd like to get useful links up publicly for others to see.) 
 ### training and skills
- * [northcoders](https://northcoders.com/our-courses/coding-bootcamp): as for October 2023 I've completed the practice challenges for this and am waiting to book an entry challgene for the November 2023 Software Developmer bootcamp. 
+ * [northcoders](https://northcoders.com/our-courses/coding-bootcamp): as of October 2023 I am enrolled for the November 2023 Software Developmer bootcamp for 13 weeks!
  * [the coders guild](https://thecodersguild.org.uk/course-directory/#courses)
  * Generation UK
  * the [ddat capability framework](https://ddat-capability-framework.service.gov.uk/) defines skills for different government roles at differnt levels
 ### Interesting companies for potential roles
- * 
+ * Leeds Teaching Hospitals Trust
+ * Axiologik
+ * Aire Innovates/Logik 
 ### jobsearch resources
 * https://superpower.tech/ 
 
@@ -40,40 +40,3 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
  * [simple shared healthcare](https://www.simple.uk.net/)
  * [bitjam](https://bitjam.org.uk/)
  * [green software foundation](https://greensoftware.foundation/)
-
-## here are interesting data projects in health that I'd like to do something about
- * I really like the work and approach that [Open Innovations](https://open-innovations.org/) do.
-   * I'd like to emmulate their approach and technology stack in any training or personal projects that I do so [Luke Strange](https://open-innovations.org/search/?author=lstrange) was kind enough to point me to this overview of the [Open Innovations Platform](https://open-innovations.github.io/platform/)
-   * Of particualr interest is the (Open Data Saves Lives) project.
-   * I'd like to read more about the [open outcomes](ahttps://apperta.org/openOutcomes/) project as well. This may have some info under the [Apperta Foundation gitHub](https://github.com/AppertaFoundation), and the [Clinical Knowledge Manager /(CKM)](https://ckm.apperta.org/ckm/) also looks interesting.
-   * can [news2](https://www.rcplondon.ac.uk/projects/outputs/national-early-warning-score-news-2) parameters be usefully put into an app? Some of these are subjective, so digitising their definition might be useful. It'd take some validation though! 
-
-### there was a lot of useful learning from #ldf2023, especially the hack at Aire Innovates 
- * [openEHR](https://openehr.org/) which [Ian McNicoll](https://www.linkedin.com/in/ianmcnicoll/) told me about, in particualr, see the [specifications](https://specifications.openehr.org/) section.
- * [SNOMED](https://www.snomed.org/)
- * [UKCore Hackathon materials](https://simplifier.net/guide/UKCore-Hackathon/)
- * [FHIR UK Core](https://digital.nhs.uk/services/fhir-uk-core)
-   * https://simplifier.net/HL7FHIRUKCoreR4/~guides
-   * https://simplifier.net/guide/uk-core-implementation-guide?version=current
- * [Florence](https://florence.community/) (or Flo) text message based system for home blood pressure reporting (Ian McNicoll also told me about this).
-   * background on [NHS home bp monitoring)[https://www.england.nhs.uk/ourwork/clinical-policy/cvd/home-blood-pressure-monitoring/] 
-   * I'd be interested in understanding if this could flow directed to an EHR - this could become a #project
-   * Also, could this be integrated into the NHS App
-   * could one create an app to capture BP reading from a machine (home or clinical) and push this through? it should be possible to do this with fewer transposition errors, and could be impletmented with the hundreds of thousands of un-connected monitors already in hospitals, clinics and peoples homes...
-   * there is a [paper](https://www.frontiersin.org/articles/10.3389/frai.2021.543176/full) that shows PoC for this, and has made their code available as [BPimageTranscribe repo](https://github.com/cliffordlab/BPimageTranscribe)
-
-## [a page on my career so far](medicalDevices.md)
-including:
-* PhD
-* research
-* knee replacement projects
-
-## and finally, other things that interest me
-### diversity and inclusion
-* [a blog from kent about health equality](https://kenthealthinequalityuk.wordpress.com/2023/08/29/reducing-inequality-and-variations/)
-
-## reducing CO2
-
-## health and fitness
-* https://xoraces.com/
-* ##https://www.punkpanther.co.uk/
