@@ -10,6 +10,8 @@ note: I had this saved as a document, but that wasn't very accessible to me, and
 |**Result:** |
 |**Reflection:** |
 -->
+|[EMPLOYMENT HISTORY](resume##EMPLOYMENT-HISTORY)|[EDUCATION](resume##EDUCATION)|[MEMBERSHIPS](resume##MEMBERSHIPS)|[TRAINING](resume##TRAINING)|[PUBLICATIONS](resume##PUBLICATIONS)|[PATENTS](resume##PATENTS)|
+|---|---|---|---|---|---|
 
 ## EMPLOYMENT HISTORY 
 ### 2017-2023: Principal Product Development (Bio)engineer
@@ -64,4 +66,10 @@ Application of computational and experimental modelling to investigate mechanism
 ### 1998-2002: BEng (hons) in Medical Engineering (thick sandwich course)
 _University of Bradford, UK_
 
+## MEMBERSHIPS
 
+## TRAINING
+
+## PUBLICATIONS
+
+## PATENTS
