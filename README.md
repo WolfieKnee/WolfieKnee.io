@@ -79,7 +79,7 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
 ## and here are things to do with past career
 ### my PhD and research work
   * I did a PhD at University of Nottingham and my thesis on [on Biomechanics of shaken baby syndrome](https://eprints.nottingham.ac.uk/11217/) is public so if you want you can read it if you like. To do all the processing of experimental data, and then automate running of computational models I built a RedHat Linux server, learned Perl and Python and then realised that my MATLAB code was so slow that I re-wrote it all in C++... I'm looking for examples of all that code on (very) old backup DVDs at the moment, but I suspect it is Fugly!
-### Past work in Medical Devices
+### [Past work in Medical Devices](medicalDevices.md)
 ### public information about work I did at DePuy Synthes, a Johnson & Johnson Company (now called Johnson & Johnson MedTech)
 * https://www.jnjmedtech.com/en-EMEA/product/sigma-hp-partial-knee
 * https://www.jnjmedtech.com/en-US/product/attune-knee-system
