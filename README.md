@@ -11,7 +11,7 @@ a lot of this is inspired by [open innovations](https://open-innovations.org/)..
 ## here is my [LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")
 
 ## resources for getting going with digital projects
- * [a link to my own gitHub](https://github.com/WolfieKnee/)
+ * a link to my own [gitHub](https://github.com/WolfieKnee/)
  * [MDM JS reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  * [codewars](https://www.codewars.com/)
  * [code kata](http://codekata.com/)
