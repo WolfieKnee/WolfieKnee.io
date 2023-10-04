@@ -1,9 +1,9 @@
 # David Wolfson
 **[LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")**
 
-A page to hold blog-like information and pointers to my digital portfolio, hosted on [my gitHub](https://github.com/WolfieKnee/).
+A page to hold blog-like information and pointers to my digital portfolio, hosted on [gitHub](https://github.com/WolfieKnee/).
 
-[career](medicalDevices.md)|[resume](resume.md)|[projects](projects.md)|[events](events.md)|[other interests](otherInterests.md)|[reading list](readingList.md)
+|[career](medicalDevices.md)|[resume](resume.md)|[projects](projects.md)|[events](events.md)|[other interests](otherInterests.md)|[reading list](readingList.md)|
 |---|---|---|---|---|---|
 
 ## my plan for this page:
