@@ -10,7 +10,7 @@ As an established technical leader, I had technical oversight for the partial kn
 I supported a Senior Director in definition of scope for the businesses approach to data science in research and development. I was the Industrial Lead for external research collaborations, leading to deployment of new computational tools for accelerated evaluation of device performance. I supported teams in innovation and problem-solving challenges and individuals in their personal development. I also participated in Diversity and Inclusion initiatives, undertaking training in Unconscious Bias and Mental Health Awareness.
 
 |Remote labs during COVID|
-|---|
+|:---|
 |**Challenge:** In order to progress development projects during COVID, it was necessary to undertaking simulated use labs for surgeons across the world. Travel restrictions prevented the UK based team from travelling so an alternative approach was required.|
 |**Action:** I lead the team in identifying  facilities local to the surgeons with audio-visual facilites, and employees who could attend those facilities without travel. I worked with leadership to gain approval for the events (including employee time), and liased with the surgeons to agree their attendance. I directed suitable training for the attendees, and lead the events remotely through AV connections.| 
 **Skills:** leadership, problem solving, networking, communication, influencing|
@@ -19,7 +19,7 @@ I supported a Senior Director in definition of scope for the businesses approach
 
 
 |External Research Budget Management|
-|---|
+|:---|
 |**Challenge:** |
 |**Action:** | 
 **Skills:** |
@@ -28,10 +28,12 @@ I supported a Senior Director in definition of scope for the businesses approach
 
 
 
-<!--|CAR TEMPLATE|
-|---|
+<!--
+|CAR TEMPLATE|
+|:---|
 |**Challenge:** |
 |**Action:** | 
 **Skills:** |
 |**Result:** |
-|**Reflection:** |-->
+|**Reflection:** |
+-->
