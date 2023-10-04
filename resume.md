@@ -1,3 +1,4 @@
+# Resume
 This is not intended as a CV, but a place where I can collect a full resume of experiences which I can pick from an taylor for specific roles. In particular I am working on [CAR stories](https://www.ctp.org.uk/focus/tips-and-advice-5-steps-to-successfully/507910). If you're here and reading it I hope you find it interesting, but please also see my [LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/) and contact me there if you'd like to talk about work opportunities. 
 
 note: I had this saved as a document, but that wasn't very accessible to me, and as I'm trying to 'put everything on the web' as [open innovations](https://open-innovations.org/) reccomend!
@@ -10,7 +11,7 @@ note: I had this saved as a document, but that wasn't very accessible to me, and
 |**Result:** |
 |**Reflection:** |
 -->
-|[EMPLOYMENT HISTORY](resume.md##EMPLOYMENT-HISTORY)|[EDUCATION](resume.md##EDUCATION)|[MEMBERSHIPS](resume.md##MEMBERSHIPS)|[TRAINING](resume.md##TRAINING)|[PUBLICATIONS](resume.md##PUBLICATIONS)|[PATENTS](resume.md##PATENTS)|
+| [EMPLOYMENT HISTORY](resume.md##EMPLOYMENT-HISTORY) | [EDUCATION](resume.md##EDUCATION) | [MEMBERSHIPS](resume.md##MEMBERSHIPS) | [TRAINING](resume.md##TRAINING) | [PUBLICATIONS](resume.md##PUBLICATIONS) | [PATENTS](resume.md##PATENTS) |
 |---|---|---|---|---|---|
 
 ## EMPLOYMENT HISTORY 
