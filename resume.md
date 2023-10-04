@@ -22,11 +22,11 @@ I supported a Senior Director in definition of scope for the businesses approach
 |Remote labs during COVID|
 |:---|
 |**Challenge:** In order to progress development projects during COVID, it was necessary to undertaking simulated use labs for surgeons across the world. Travel restrictions prevented the UK based team from travelling so an alternative approach was required.|
-|**Action:**| 
-|Lead the team in identifying  facilities local to the surgeons with audio-visual facilites, and employees who could attend those facilities without travel.|
-|Worked with leadership to gain approval for the events (including employee time), and liased with the surgeons to agree their attendance.|
-|Directed suitable training for the attendees.|
-|Lead the events remotely through AV connections.| 
+|**Action:**
+Lead the team in identifying  facilities local to the surgeons with audio-visual facilites, and employees who could attend those facilities without travel.
+Worked with leadership to gain approval for the events (including employee time), and liased with the surgeons to agree their attendance.   
+Directed suitable training for the attendees.
+Lead the events remotely through AV connections.| 
 **Skills:** Leadership, problem solving, networking, communication, influencing|
 |**Result:**|
 |Simulated use labs were sucessfully completed on several occassions, with _extremely_ positive feedback from surgeons and leadership|
@@ -53,26 +53,31 @@ I supported a Senior Director in definition of scope for the businesses approach
 |**Result:** |
 |**Reflection:** |
 
+|Technical pressenations to non-technical clinical stakeholders|
+|:---|
 
 ### 2013-2017: Staff Bioengineer
 _DePuy Synthes (a Johnson & Johnson Company), Leeds, UK_
 Leadership for development of surgical instruments and joint replacement implants though design, testing and manufacture.  Global product launch activities including presentations in UK, Italy, South Africa and Japan. Responsible for strategy and execution of external research collaborations. 
 
-|Building trust with remote leadership|
+|Building trust with remote leadership (FOG)|
 |:---|
 
-|Technical discussions with clinical stakeholders|
+|Technical discussions with clinical stakeholders (ATTUNE)|
 |:---|
 
 
 ### 2009-2013: Senior Bioengineer
 _DePuy Synthes (a Johnson & Johnson Company), Leeds, UK_
-Development of surgical instruments and implants for knee replacement. Launch of Sigma CR150 knee system, including presentations in Thailand and India. 
+Development of surgical instruments and implants for knee replacement. Launch of Sigma(tm) CR150 knee system, including presentations in Thailand and India. 
+
 ### 2008-2009: Bioengineer
 _DePuy Synthes (a Johnson & Johnson Company), Leeds, UK_
 
 ### 2006-2008: New Product Development Engineer
 _Biomet UK Ltd, Swindon, UK_
+- Vanguard(tm) instruments
+- Vangaurd Porous+HA femur
 
 ### 2000-2001: Student Technician, EMBE
 _Seimens Healthcare Services, Barnet General Hospital, Barnet, UK_
