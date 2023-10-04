@@ -12,7 +12,6 @@ note: I had this saved as a document, but that wasn't very accessible to me, and
 |**Reflection:** |
 -->
 | [EMPLOYMENT HISTORY](resume.md##EMPLOYMENT-HISTORY) | [EDUCATION](resume.md##EDUCATION) | [MEMBERSHIPS](resume.md##MEMBERSHIPS) | [TRAINING](resume.md##TRAINING) | [PUBLICATIONS](resume.md##PUBLICATIONS) | [PATENTS](resume.md##PATENTS) |
-|---|---|---|---|---|---|
 
 ## EMPLOYMENT HISTORY 
 ### 2017-2023: Principal Product Development (Bio)engineer
@@ -34,7 +33,6 @@ I supported a Senior Director in definition of scope for the businesses approach
 |The impact of travel restrictions on the project was mitigated.|
 |**Reflection:** These events were made possible due to the collaborative culture of the global organisation. My key contribution was in providing the vision and leadership that the events were possible, and facilitating their sucessful execution by advocating with leadership to meet the needs of the team in doing so.|
 
-
 |External Research Budget Management|
 |:---|
 |**Challenge:** |
@@ -43,9 +41,30 @@ I supported a Senior Director in definition of scope for the businesses approach
 |**Result:** |
 |**Reflection:** |
 
+|Tech demonstration of [Velys RAS(tm)](https://www.jnjmedtech.com/en-US/products/digital-surgery/velys-robotic-assisted-solution) to senior non-technical stakeholders|
+|:---|
+|**Challenge:** Including Tim Briggs as part of GIRFT |
+
+|Developing Data-strategy for non-tech RnD teams|
+|:---|
+|**Challenge:** advocating for role of data in medical device RnD|
+|**Action:** sought and completed training| 
+**Skills:** |
+|**Result:** |
+|**Reflection:** |
+
+
 ### 2013-2017: Staff Bioengineer
 _DePuy Synthes (a Johnson & Johnson Company), Leeds, UK_
 Leadership for development of surgical instruments and joint replacement implants though design, testing and manufacture.  Global product launch activities including presentations in UK, Italy, South Africa and Japan. Responsible for strategy and execution of external research collaborations. 
+
+|Building trust with remote leadership|
+|:---|
+
+|Technical discussions with clinical stakeholders|
+|:---|
+
+
 ### 2009-2013: Senior Bioengineer
 _DePuy Synthes (a Johnson & Johnson Company), Leeds, UK_
 Development of surgical instruments and implants for knee replacement. Launch of Sigma CR150 knee system, including presentations in Thailand and India. 
