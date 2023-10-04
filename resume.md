@@ -11,15 +11,26 @@ I supported a Senior Director in definition of scope for the businesses approach
 
 |Remote labs during COVID|
 |---|
-|**Challenge: ** In order to progress development projects during COVID, it was necessary to undertaking simulated use labs for surgeons across the world. Travel restrictions prevented the UK based team from travelling so an alternative approach was required.|
+|**Challenge:** In order to progress development projects during COVID, it was necessary to undertaking simulated use labs for surgeons across the world. Travel restrictions prevented the UK based team from travelling so an alternative approach was required.|
 |**Action:** I lead the team in identifying  facilities local to the surgeons with audio-visual facilites, and employees who could attend those facilities without travel. I worked with leadership to gain approval for the events (including employee time), and liased with the surgeons to agree their attendance. I directed suitable training for the attendees, and lead the events remotely through AV connections.| 
 **Skills:** leadership, problem solving, networking, communication, influencing|
 |**Result:** Simulated use labs were sucessfully completed on several occassions, with extremely positive feedback from surgeons and leadership, and the impact of travel restrictions on the project was mitigated.|
 |**Reflection:** These events were made possible due to the collaborative culture of the global organisation. My key contribution was in providing the vision and leadership that the events were possible, and facilitating their sucessful execution by advocating with leadership to meet the needs of the team in doing so.|
 
+
+|External Research Budget Management|
+|---|
+|**Challenge:** |
+|**Action:** | 
+**Skills:** |
+|**Result:** |
+|**Reflection:** |
+
+
+
 <!--|CAR TEMPLATE|
 |---|
-|**Challenge: ** |
+|**Challenge:** |
 |**Action:** | 
 **Skills:** |
 |**Result:** |
