@@ -10,7 +10,7 @@ note: I had this saved as a document, but that wasn't very accessible to me, and
 |**Result:** |
 |**Reflection:** |
 -->
-|[EMPLOYMENT HISTORY](resume##EMPLOYMENT-HISTORY)|[EDUCATION](resume##EDUCATION)|[MEMBERSHIPS](resume##MEMBERSHIPS)|[TRAINING](resume##TRAINING)|[PUBLICATIONS](resume##PUBLICATIONS)|[PATENTS](resume##PATENTS)|
+|[EMPLOYMENT HISTORY](resume.md##EMPLOYMENT-HISTORY)|[EDUCATION](resume.md##EDUCATION)|[MEMBERSHIPS](resume.md##MEMBERSHIPS)|[TRAINING](resume.md##TRAINING)|[PUBLICATIONS](resume.md##PUBLICATIONS)|[PATENTS](resume.md##PATENTS)|
 |---|---|---|---|---|---|
 
 ## EMPLOYMENT HISTORY 
