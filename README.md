@@ -10,6 +10,8 @@ a lot of this is inspired by [open innovations](https://open-innovations.org/)..
 
 ## [LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")
 ## [events](events.md)
+## [resume](resume.md)
+
 
 ## resources for getting going with digital projects
  * a link to my own [gitHub](https://github.com/WolfieKnee/)
