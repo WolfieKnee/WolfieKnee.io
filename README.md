@@ -11,7 +11,7 @@ a lot of this is inspired by [open innovations](https://open-innovations.org/)..
 * when it is a bit more ready I should redirect my [personal url: davidwolfson.co.uk](davidwolfson.co.uk) to this, but for now it can stay pointing to [my LinkedIn profile](https://www.linkedin.com/in/david-wolfson-6149a38/)
 * add some style and structure, possibly through Lume. [Andy Bell's site](https://andy-bell.co.uk/) might be a good inspiration for this.
 
-(note: Since this is currently in raw markdown on github.io this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html) is going to be helpful.)
+This [markdown guide]([https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)) is helpful.
 
 ## resources for getting going with general digital projects
  * a link to my own [gitHub](https://github.com/WolfieKnee/)
