@@ -1,5 +1,6 @@
 # David Wolfson
-|**[LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")**|[Research Gate](https://www.researchgate.net/profile/David-Wolfson-8)|
+**[LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")**
+**[Research Gate](https://www.researchgate.net/profile/David-Wolfson-8)**
 
 A page to hold blog-like information and pointers to my career history and digital portfolio, hosted on [gitHub](https://github.com/WolfieKnee/).
 
