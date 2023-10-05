@@ -11,6 +11,7 @@ note: I had this saved as a document, but that wasn't very accessible to me, and
 |**Result:** |
 |**Reflection:** |
 -->
+
 | [EMPLOYMENT HISTORY](resume.md##EMPLOYMENT-HISTORY) | [EDUCATION](resume.md##EDUCATION) | [MEMBERSHIPS](resume.md##MEMBERSHIPS) | [TRAINING](resume.md##TRAINING) | [PUBLICATIONS](resume.md##PUBLICATIONS) | [PATENTS](resume.md##PATENTS) |
 
 ## EMPLOYMENT HISTORY 
@@ -19,7 +20,7 @@ _DePuy Synthes (a Johnson & Johnson Company), Leeds, UK_
 As an established technical leader, I had technical oversight for the partial knee segment of this global orthopaedic business. I held discussions with surgeon customers, and senior business leaders to identify alignment between unmet clinical needs and business opportunities. I lead a cross-functional development team in successful delivery of novel surgical instruments for partial knee replacement. I also provided clinical expertise for teams developing software for Robotic Surgery, and Digital Health Technology products. 
 I supported a Senior Director in definition of scope for the businesses approach to data science in research and development. I was the Industrial Lead for external research collaborations, leading to deployment of new computational tools for accelerated evaluation of device performance. I supported teams in innovation and problem-solving challenges and individuals in their personal development. I also participated in Diversity and Inclusion initiatives, undertaking training in Unconscious Bias and Mental Health Awareness.
 
-#### Remote labs during COVID|
+#### Remote labs during COVID
 **Challenge:** In order to progress development projects during COVID, it was necessary to undertaking simulated use labs for surgeons across the world. Travel restrictions prevented the UK based team from travelling so an alternative approach was required.
 **Action:**
 * Lead the team in identifying  facilities local to the surgeons with audio-visual facilites, and employees who could attend those facilities without travel.
