@@ -5,10 +5,6 @@ A page to hold blog-like information and pointers to my career history and digit
 
 | [career](medicalDevices.md) | [resume](resume.md) | [projects](projects.md) | [events](events.md) | [other interests](otherInterests.md) | [reading list](readingList.md) |
 
-
-| career | resume | projects | events | other interests | reading list |
-
-
 <details>
 <summary> my plan for this page:</summary>
 a lot of this is inspired by [open innovations](https://open-innovations.org/)...
