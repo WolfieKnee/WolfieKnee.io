@@ -12,7 +12,7 @@ I'm a BIG fan of [Through the Wardrobe](https://www.throughthewardrobebooks.co.u
 * [strengthfinder]([https://store.gallup.com/p/en-gb/10386/strengthsfinder-2.0-(e-book)](https://uk.bookshop.org/p/books/strengthsfinder-2-0-gallup/4091449?ean=9781595620156)) - leant by a friend and just getting started. Looks helpful in career planning...
 * [The Complete Guide To Fasting: Heal Your Body Through Intermittent, Alternate-Day, and Extended Fasting
 Jimmy Moore & Jason Fung](https://uk.bookshop.org/p/books/the-complete-guide-to-fasting-heal-your-body-through-intermittent-alternate-day-and-extended-fasting-jimmy-moore/4498809?ean=9781628600018)- I now do this every day, but it started with a conversation with [Dr Caroline Gibson](https://www.drcarolinegibson.com/), and her work in lifesytle medicine...
-* [one 5 minute manager](https://uk.bookshop.org/p/books/the-new-one-minute-manager-kenneth-blanchard/3197887?ean=9780008128043)
+* [one minute manager](https://uk.bookshop.org/p/books/the-new-one-minute-manager-kenneth-blanchard/3197887?ean=9780008128043)
 * [ROAR](https://uk.bookshop.org/p/books/roar-how-to-match-your-food-and-fitness-to-your-unique-female-physiology-for-optimum-performance-great-health-and-a-strong-l-stacy-sims/3989793?ean=9781623366865)
 
 ## medical devices
