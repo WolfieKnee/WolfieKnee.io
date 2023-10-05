@@ -15,7 +15,7 @@ note: I had this saved as a document, but that wasn't very accessible to me, and
 | [EMPLOYMENT HISTORY](#employment-history) | [EDUCATION](#education) | [MEMBERSHIPS](#memberships) | [TRAINING](#training) | [PUBLICATIONS](#publications) | [PATENTS](#patents) |
 
 ## EMPLOYMENT HISTORY 
-### 2017-2023: Principal Product Development (Bio)engineer
+### 2017/04/01-2023/09/08: Principal Product Development (Bio)engineer
 _DePuy Synthes (a Johnson & Johnson Company), Leeds, UK_
 As an established technical leader, I had technical oversight for the partial knee segment of this global orthopaedic business. I held discussions with surgeon customers, and senior business leaders to identify alignment between unmet clinical needs and business opportunities. I lead a cross-functional development team in successful delivery of novel surgical instruments for partial knee replacement. I also provided clinical expertise for teams developing software for Robotic Surgery, and Digital Health Technology products. 
 I supported a Senior Director in definition of scope for the businesses approach to data science in research and development. I was the Industrial Lead for external research collaborations, leading to deployment of new computational tools for accelerated evaluation of device performance. I supported teams in innovation and problem-solving challenges and individuals in their personal development. I also participated in Diversity and Inclusion initiatives, undertaking training in Unconscious Bias and Mental Health Awareness.
@@ -56,7 +56,7 @@ The impact of travel restrictions on the project was mitigated.
 
 #### Technical pressenations to non-technical clinical stakeholders
 
-### 2013-2017: Staff Bioengineer
+### 2013/08/01-2017/04/01: Staff Bioengineer
 _DePuy Synthes (a Johnson & Johnson Company), Leeds, UK_
 Leadership for development of surgical instruments and joint replacement implants though design, testing and manufacture.  Global product launch activities including presentations in UK, Italy, South Africa and Japan. Responsible for strategy and execution of external research collaborations. 
 
@@ -64,14 +64,14 @@ Leadership for development of surgical instruments and joint replacement implant
 
 #### Technical discussions with clinical stakeholders (ATTUNE)
 
-### 2009-2013: Senior Bioengineer
+### 2009/09/01-2013/08/01: Senior Bioengineer
 _DePuy Synthes (a Johnson & Johnson Company), Leeds, UK_
 Development of surgical instruments and implants for knee replacement. Launch of Sigma(tm) CR150 knee system, including presentations in Thailand and India. 
 
-### 2008-2009: Bioengineer
+### 2008/03/31 -2009/09/01: Bioengineer
 _DePuy Synthes (a Johnson & Johnson Company), Leeds, UK_
 
-### 2006-2008: New Product Development Engineer
+### 2006/06/01-2008/03/01: New Product Development Engineer
 _Biomet UK Ltd, Swindon, UK_
 - Vanguard(tm) instruments
 - Vangaurd Porous+HA femur
@@ -81,8 +81,9 @@ _Seimens Healthcare Services, Barnet General Hospital, Barnet, UK_
 12 month placement working for PFI provider in a large NHS hospital. As well as gaining experience of the workplace and technical tasks, this was an invaluable exposure to working in a clinical setting within the NHS. 
 
 ## EDUCATION
-### 2002 – 2006: PhD "Biomechanics of Shaken Baby Syndrome"
+### 2002 – September 2006: PhD ["Biomechanics of Shaken Baby Syndrome"](https://eprints.nottingham.ac.uk/11217/)
 _University of Nottingham, UK_
+
 Application of computational and experimental modelling to investigate mechanisms for infant brain injury. Computational modelling was conducted using MSC Adams and automated using Perl. Experimental data were analysed by developing motion tracking software in C++.
  
 ### 1998-2002: BEng (hons) in Medical Engineering (thick sandwich course)
@@ -91,6 +92,11 @@ _University of Bradford, UK_
 ## MEMBERSHIPS
 
 ## TRAINING
+* Fundamentals of Data Science (non-technical), University of Southampton (May 2022)
+* Internal Auditor: ISO13485, BSi (July 2010)
+* Human Elements in Project Success I, Praxis Learning Networks (June 2010)
+* Project Management Essentials, Praxis Learning Networks (May 2010)
+
 
 ## PUBLICATIONS
 [Research Gate](https://www.researchgate.net/profile/David-Wolfson-8)
