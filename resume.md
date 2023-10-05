@@ -12,7 +12,7 @@ note: I had this saved as a document, but that wasn't very accessible to me, and
 |**Reflection:** |
 -->
 
-| [EMPLOYMENT HISTORY](resume.md##EMPLOYMENT-HISTORY) | [EDUCATION](resume.md##EDUCATION) | [MEMBERSHIPS](resume.md##MEMBERSHIPS) | [TRAINING](resume.md##TRAINING) | [PUBLICATIONS](resume.md##PUBLICATIONS) | [PATENTS](resume.md##PATENTS) |
+| [EMPLOYMENT HISTORY](##EMPLOYMENT-HISTORY) | [EDUCATION](##EDUCATION) | [MEMBERSHIPS](##MEMBERSHIPS) | [TRAINING](##TRAINING) | [PUBLICATIONS](##PUBLICATIONS) | [PATENTS](##PATENTS) |
 
 ## EMPLOYMENT HISTORY 
 ### 2017-2023: Principal Product Development (Bio)engineer
