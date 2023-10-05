@@ -34,10 +34,11 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
  * the [ddat capability framework](https://ddat-capability-framework.service.gov.uk/) defines skills for different government roles at differnt levels
 ### Interesting companies for potential roles
  * Leeds Teaching Hospitals Trust
- * Axiologik
- * Aire Innovates/Logik 
+ * [Axiologik](https://axiologik.com/work-with-us)
+ * [Aire Innovates/Logik ](https://www.airelogic.com/careers#vacancies)
 ### jobsearch resources
-* https://superpower.tech/ 
+* [superpower](https://superpower.tech/)
+* [nhs jobs](https://beta.jobs.nhs.uk/candidate/)
 
 ### organisations
  * [simple shared healthcare](https://www.simple.uk.net/)
