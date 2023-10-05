@@ -12,7 +12,7 @@ note: I had this saved as a document, but that wasn't very accessible to me, and
 |**Reflection:** |
 -->
 
-| [EMPLOYMENT HISTORY](#EMPLOYMENT-HISTORY) | [EDUCATION](#-EDUCATION) | [MEMBERSHIPS](#MEMBERSHIPS) | [TRAINING](#TRAINING) | [PUBLICATIONS](#PUBLICATIONS) | [PATENTS](#PATENTS) |
+| [EMPLOYMENT HISTORY](/resume.html#EMPLOYMENT-HISTORY) | [EDUCATION](#-EDUCATION) | [MEMBERSHIPS](#MEMBERSHIPS) | [TRAINING](#TRAINING) | [PUBLICATIONS](#PUBLICATIONS) | [PATENTS](#PATENTS) |
 
 ## EMPLOYMENT HISTORY 
 ### 2017-2023: Principal Product Development (Bio)engineer
@@ -76,7 +76,7 @@ _Biomet UK Ltd, Swindon, UK_
 - Vanguard(tm) instruments
 - Vangaurd Porous+HA femur
 
-### 2000-2001: Student Technician, EMBE
+### 2000-2001: Student Technician, EBME
 _Seimens Healthcare Services, Barnet General Hospital, Barnet, UK_
 12 month placement working for PFI provider in a large NHS hospital. As well as gaining experience of the workplace and technical tasks, this was an invaluable exposure to working in a clinical setting within the NHS. 
 
