@@ -36,6 +36,8 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
  * Leeds Teaching Hospitals Trust
  * [Axiologik](https://axiologik.com/work-with-us)
  * [Aire Innovates/Logik ](https://www.airelogic.com/careers#vacancies)
+ * [https://en.wilddesign.de/]
+ * [https://www.frontend.com/]
 ### jobsearch resources
 * [superpower](https://superpower.tech/)
 * [nhs jobs](https://beta.jobs.nhs.uk/candidate/)
