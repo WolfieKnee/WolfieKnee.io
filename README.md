@@ -23,7 +23,10 @@ This [markdown guide]([https://github.com/adam-p/markdown-here/wiki/Markdown-Che
  * [code kata](http://codekata.com/)
  * Lume
  * YAML
- * JSON 
+ * JSON
+
+## design
+* https://dschool.stanford.edu/
 
 ## here are things to do with pivoting to a Digital (Health) Tech Career
 I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4kNrJ43kaHIns3qNJZ93_lk/edit?usp=sharing) for my actions on this. (This one is staying private for now, but I'd like to get useful links up publicly for others to see.) 
