@@ -9,11 +9,12 @@ A page to hold blog-like information and pointers to my career history and digit
 <details>
 <summary> my plan for this page:</summary>
   <ul>
-  <li>I really like the work and approach that [Open Innovations](https://open-innovations.org/) do so I'd like to emmulate their approach and technology stack in any training or personal projects that I undertake. [Luke Strange](https://open-innovations.org/search/?author=lstrange) was kind enough to point me to this overview of the [Open Innovations Platform](https://open-innovations.github.io/platform/)</li>
-  <li>When it is a bit more ready I should redirect my [personal url: davidwolfson.co.uk](davidwolfson.co.uk) to this, but for now it can stay pointing to [my LinkedIn profile](https://www.linkedin.com/in/david-wolfson-6149a38/)</li>
-  <li>add some style and structure, possibly through Lume. [Andy Bell's site](https://andy-bell.co.uk/) might be a good inspiration for this.</li>    
-  </ul>
-  This [markdown guide]([https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)) is helpful.
+  <li>I really like the work and approach that <a href = "https://open-innovations.org/">Open Innovations</a> do so I'd like to emmulate their approach and technology stack in any training or personal projects that I undertake. <a href="https://open-innovations.org/search/?author=lstrange">Luke Strange</a> was kind enough to point me to this overview of the <a href="https://open-innovations.github.io/platform/">Open Innovations Platform</a></li>
+  <li>When it is a bit more ready I should redirect my <a href="davidwolfson.co.uk>personal url: davidwolfson.co.uk</a> to this, but for now it can stay pointing to <a href="https://www.linkedin.com/in/david-wolfson-6149a38/">my LinkedIn profile</a></li>
+  <li>add some style and structure, possibly through Lume. <a href="https://andy-bell.co.uk/">Andy Bell's site</a> might be a good inspiration for this.</li>
+  </ul>  
+  This <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html">markdown guide</a> is helpful.
+         
 </details>
 
 ## resources for getting going with general digital projects
