@@ -28,7 +28,16 @@ However, both these tools require accurate human transposition of the data. In 2
   While the clinical practice of medicine is focused on aliviating the symptoms of acutely or chronically unwell patients, healthcare research and development aims to enable clinicians to treat more patients. Often, we thing of this as using new knowledge or technology to diagnose or treat a cohort of patients with a specific condition who are currently _un-treatable_. However, there are other (large?) cohorts of patients who are not able to access established standard-of-care treatment, and are therefore _under-treated_. Each of these groups of patients are important, but the focus of this invetigation is to explore the role of Data and DHT in understanding and addressing the the _under-treated_.
   Further to this, we might also consider that the 'Healthcare' sector (and spending) is largely focused on treating illness rather than maintaining health (indeed, we might consider that in the UK we actually have a 'National Illness Service'!). However, there are large number of patients suffering from diseases which could be treated (or prevented) through lifestyle changes. So called "lifestyle medicine" has clear benefits to patients, and reduces the burden on healthcare system, and so these types of treatments or interventions are also be to explored here. 
 ### what to treat
-NHS 5 + 20
+There is an NHS initiative called ["Core20PLUS5"](https://www.england.nhs.uk/about/equality/equality-hub/national-healthcare-inequalities-improvement-programme/core20plus5/) which describes "an approach to reducing healthcare inequalities". 
+* Core20 - The most deprived 20% of the national population
+* PLUS population groups should be identified at a local level (**ACTION:** what are local to West Yorkshire ICB?)
+* There are five clinical areas of focus which require accelerated improvement
+  1. Maternity
+  2. Severe mental illness (SMI)
+  3. Chronic respiratory disease
+  4. Early cancer diagnosis
+  5. Hypertension case-finding and optimal management and lipid optimal management
+ 
 ### who/where to treat 
 In the past, healthcare has been (unintentionaly?) focused on a privileged minority. By collating and analysing healthcare data with modern tools and techniques, it is now clear that not only are there significant health inequalities in our society, but who (and where) those undersevered population are. The sad but unsurprising fact is that these may be the same populations that have suffered other inequalities through deliberate discrimination such as racism, sexisim or class discrimation. Natural Justice dictates that we now use health inequality data to prioritise activities in areas of high health inequality.
 #### Helath inequality data sources
@@ -38,9 +47,7 @@ On 4th October 2023 I joined a part of "ONS Local presents: Health Inequalities 
 * [Geographical Information System (GIS) Version of Local Health](https://www.localhealth.org.uk/) This includes additional GIS features and functionality to create reports and bespoke area geographies.
 * Local Inequalities Explorer Tool wiki pages (to find further information and link to data download files) you will need to be registered for Knowledge Hub and a member of the OHID National Health Intelligence group. If you are not already registered with Knowledge Hub you can do this at the [Knowledge Hub](khub.net)
 
-ACTION: Review this for loacl data to West Yorkhire/NOE
-
-
+ACTION: Review this for local data to West Yorkhire ICB/NOE
 
 note: also consider if these areas are also areas of digital inequality/poverty...
 ### what to do
