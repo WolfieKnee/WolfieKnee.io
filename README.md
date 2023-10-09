@@ -8,9 +8,10 @@ A page to hold blog-like information and pointers to my career history and digit
 
 <details>
 <summary> my plan for this page:</summary>
-a lot of this is inspired by [open innovations](https://open-innovations.org/)...
 - I really like the work and approach that [Open Innovations](https://open-innovations.org/) do so I'd like to emmulate their approach and technology stack in any training or personal projects that I undertake. [Luke Strange](https://open-innovations.org/search/?author=lstrange) was kind enough to point me to this overview of the [Open Innovations Platform](https://open-innovations.github.io/platform/)
+
 - When it is a bit more ready I should redirect my [personal url: davidwolfson.co.uk](davidwolfson.co.uk) to this, but for now it can stay pointing to [my LinkedIn profile](https://www.linkedin.com/in/david-wolfson-6149a38/)
+
 - add some style and structure, possibly through Lume. [Andy Bell's site](https://andy-bell.co.uk/) might be a good inspiration for this.
 
 This [markdown guide]([https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)) is helpful.
@@ -23,7 +24,7 @@ This [markdown guide]([https://github.com/adam-p/markdown-here/wiki/Markdown-Che
  * [code kata](http://codekata.com/)
  * Lume
  * YAML
- * JSON
+ * JSON 
 
 ## design
 * [standford design school](https://dschool.stanford.edu/)
@@ -42,7 +43,6 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
  * Leeds Teaching Hospitals Trust
  * [Axiologik](https://axiologik.com/work-with-us)
  * [Aire Innovates/Logik ](https://www.airelogic.com/careers#vacancies)
-
 ### jobsearch resources
 * [superpower](https://superpower.tech/)
 * [nhs jobs](https://beta.jobs.nhs.uk/candidate/)
