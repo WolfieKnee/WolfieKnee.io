@@ -9,9 +9,9 @@ A page to hold blog-like information and pointers to my career history and digit
 <details>
 <summary> my plan for this page:</summary>
 a lot of this is inspired by [open innovations](https://open-innovations.org/)...
-
-  - When it is a bit more ready I should redirect my [personal url: davidwolfson.co.uk](davidwolfson.co.uk) to this, but for now it can stay pointing to [my LinkedIn profile](https://www.linkedin.com/in/david-wolfson-6149a38/)
-  - add some style and structure, possibly through Lume. [Andy Bell's site](https://andy-bell.co.uk/) might be a good inspiration for this.
+- I really like the work and approach that [Open Innovations](https://open-innovations.org/) do so I'd like to emmulate their approach and technology stack in any training or personal projects that I undertake. [Luke Strange](https://open-innovations.org/search/?author=lstrange) was kind enough to point me to this overview of the [Open Innovations Platform](https://open-innovations.github.io/platform/)
+- When it is a bit more ready I should redirect my [personal url: davidwolfson.co.uk](davidwolfson.co.uk) to this, but for now it can stay pointing to [my LinkedIn profile](https://www.linkedin.com/in/david-wolfson-6149a38/)
+- add some style and structure, possibly through Lume. [Andy Bell's site](https://andy-bell.co.uk/) might be a good inspiration for this.
 
 This [markdown guide]([https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)) is helpful.
 </details>
