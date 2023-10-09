@@ -1,6 +1,6 @@
 # David Wolfson
 **[LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")** |
-**[Research Gate](https://www.researchgate.net/profile/David-Wolfson-8)**|**[My Northcoders](https://account.northcoders.com/)**
+**[Research Gate](https://www.researchgate.net/profile/David-Wolfson-8)** | **[My Northcoders](https://account.northcoders.com/)**
 
 A page to hold blog-like information and pointers to my career history and digital portfolio, hosted on [gitHub](https://github.com/WolfieKnee/).
 
@@ -23,7 +23,13 @@ This [markdown guide]([https://github.com/adam-p/markdown-here/wiki/Markdown-Che
  * [code kata](http://codekata.com/)
  * Lume
  * YAML
- * JSON 
+ * JSON
+
+## design
+* [standford design school](https://dschool.stanford.edu/)
+* [wild design] (https://en.wilddesign.de/)
+* [frontend design] (https://www.frontend.com/])
+* [ideo.u](https://www.ideou.com/collections/courses): resources for Design training, think about looking at syllabuses
 
 ## here are things to do with pivoting to a Digital (Health) Tech Career
 I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4kNrJ43kaHIns3qNJZ93_lk/edit?usp=sharing) for my actions on this. (This one is staying private for now, but I'd like to get useful links up publicly for others to see.) 
@@ -36,6 +42,7 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
  * Leeds Teaching Hospitals Trust
  * [Axiologik](https://axiologik.com/work-with-us)
  * [Aire Innovates/Logik ](https://www.airelogic.com/careers#vacancies)
+
 ### jobsearch resources
 * [superpower](https://superpower.tech/)
 * [nhs jobs](https://beta.jobs.nhs.uk/candidate/)
