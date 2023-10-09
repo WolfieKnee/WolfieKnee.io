@@ -31,6 +31,16 @@ However, both these tools require accurate human transposition of the data. In 2
 NHS 5 + 20
 ### who/where to treat 
 In the past, healthcare has been (unintentionaly?) focused on a privileged minority. By collating and analysing healthcare data with modern tools and techniques, it is now clear that not only are there significant health inequalities in our society, but who (and where) those undersevered population are. The sad but unsurprising fact is that these may be the same populations that have suffered other inequalities through deliberate discrimination such as racism, sexisim or class discrimation. Natural Justice dictates that we now use health inequality data to prioritise activities in areas of high health inequality.
+#### Helath inequality data sources
+On 4th October 2023 I joined a part of "ONS Local presents: Health Inequalities Explorer Tool webinar". This introduced a series of tools for makring helath inequalities. Slides were also provided on e-mail. 
+* [The Local Inequalities Explorer Tool](https://app.powerbi.com/view?r=eyJrIjoiMzI1N2YwYmYtNWVhMy00ZWY5LTliNmMtYzk3ZWVmMmMzNjZkIiwidCI6ImVlNGUxNDk5LTRhMzUtNGIyZS1hZDQ3LTVmM2NmOWRlODY2NiIsImMiOjh9) (Microsoft Power BI)  
+* Local Health - Public Health Data for small geographic areas can be found on [OHID’s fingertips platform](https://fingertips.phe.org.uk/profile/local-health)
+* [Geographical Information System (GIS) Version of Local Health](https://www.localhealth.org.uk/) This includes additional GIS features and functionality to create reports and bespoke area geographies.
+* Local Inequalities Explorer Tool wiki pages (to find further information and link to data download files) you will need to be registered for Knowledge Hub and a member of the OHID National Health Intelligence group. If you are not already registered with Knowledge Hub you can do this at the [Knowledge Hub](khub.net)
+
+ACTION: Review this for loacl data to West Yorkhire/NOE
+
+
 
 note: also consider if these areas are also areas of digital inequality/poverty...
 ### what to do
