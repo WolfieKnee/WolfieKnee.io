@@ -26,7 +26,10 @@ This [markdown guide]([https://github.com/adam-p/markdown-here/wiki/Markdown-Che
  * JSON
 
 ## design
-* https://dschool.stanford.edu/
+* [standford design school](https://dschool.stanford.edu/)
+* [wild design] (https://en.wilddesign.de/)
+* [frontend design] (https://www.frontend.com/])
+* [ideo.u](https://www.ideou.com/collections/courses): resources for Design training, think about looking at syllabuses
 
 ## here are things to do with pivoting to a Digital (Health) Tech Career
 I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4kNrJ43kaHIns3qNJZ93_lk/edit?usp=sharing) for my actions on this. (This one is staying private for now, but I'd like to get useful links up publicly for others to see.) 
@@ -39,8 +42,7 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
  * Leeds Teaching Hospitals Trust
  * [Axiologik](https://axiologik.com/work-with-us)
  * [Aire Innovates/Logik ](https://www.airelogic.com/careers#vacancies)
- * [https://en.wilddesign.de/]
- * [https://www.frontend.com/]
+
 ### jobsearch resources
 * [superpower](https://superpower.tech/)
 * [nhs jobs](https://beta.jobs.nhs.uk/candidate/)
