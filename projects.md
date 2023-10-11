@@ -25,6 +25,15 @@ However, both these tools require accurate human transposition of the data. In 2
   note: BP also forms part of the [news2](https://www.rcplondon.ac.uk/projects/outputs/national-early-warning-score-news-2) parameters. Could these be usefully put into an app? Some of these are subjective, so digitising their definition might be useful. It'd take significant validation though.
 
 ## the under-treated
+<details>
+	<summary>further background reading</summary>
+<ul>
+	<li><a href="https://www.longtermplan.nhs.uk/online-version/">NHS Long Term Plan</a></li>
+	<li><a href="https://www.health.org.uk/publications/reports/the-marmot-review-10-years-on">the marmot review 10 years on</a></li>
+	<li><a href="https://www.nesta.org.uk/report/open-innovation-in-health-a-guide-to-transforming-healthcare-through-collaboration/">nesta report on open innovation in health</a></li>
+</ul>
+	
+</details>
   While the clinical practice of medicine is focused on aliviating the symptoms of acutely or chronically unwell patients, healthcare research and development aims to enable clinicians to treat more patients. Often, we thing of this as using new knowledge or technology to diagnose or treat a cohort of patients with a specific condition who are currently _un-treatable_. However, there are other (large?) cohorts of patients who are not able to access established standard-of-care treatment, and are therefore _under-treated_. Each of these groups of patients are important, but the focus of this invetigation is to explore the role of Data and Digital Health Technology (DHT) in understanding and addressing the the _under-treated_.
   Further to this, we might also consider that the 'Healthcare' sector (and spending) is largely focused on treating illness rather than maintaining health (indeed, we might consider that in the UK we actually have a 'National Illness Service'!). However, there are large number of patients suffering from diseases which could be treated (or prevented) through lifestyle changes. So called "lifestyle medicine" has clear benefits to patients, and reduces the burden on healthcare system, and so these types of treatments or interventions are also be to explored here. 
 ### what to treat
@@ -51,9 +60,13 @@ ACTION: Review this for local data to West Yorkhire ICB/NOE
 
 note: also consider if these areas are also areas of digital inequality/poverty...
 ### what to do
-* [Lifestyle Medicine](https://bslm.org.uk/)
-socical engineering through social media/advertising?
-* Joint replacement
-		* [Inequalities in provision of hip and knee replacement surgery for osteoarthritis by age, sex, and social deprivation in England between 2007–2017: A population-based cohort study of the National Joint Registry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10138460/#:~:text=For%20publicly%20funded%20surgery%2C%20no,were%20observed%20for%20both%20joints.)
+#### Lifestyle Medicine
+see the [british society of lifesytle medicine](https://bslm.org.uk/)
+social engineering through social media/advertising?
+#### Joint replacement
+since this is where my background, and that of many of my contact is, it is natural to look at this field. As of October 2023 I've not conducted a formal review, but here are a couple of interesting 'quick finds':
+* [Inequalities in provision of hip and knee replacement surgery for osteoarthritis by age, sex, and social deprivation in England between 2007–2017: A population-based cohort study of the National Joint Registry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10138460/#:~:text=For%20publicly%20funded%20surgery%2C%20no,were%20observed%20for%20both%20joints.) "Conclusions: In this study, we found that there were inequalities, which remained constant over time, especially in the provision of hip replacement, by degree of social deprivation. Providers of healthcare need to take action to reduce this unwarranted variation in provision of surgery."
+* [NJR](https://www.njrcentre.org.uk/) and the [NJR github](https://github.com/NationalJointRegistry/Datasets/tree/main) 
+
 
 ### how to fund it
