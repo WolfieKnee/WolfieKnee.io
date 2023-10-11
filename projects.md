@@ -51,7 +51,9 @@ ACTION: Review this for local data to West Yorkhire ICB/NOE
 
 note: also consider if these areas are also areas of digital inequality/poverty...
 ### what to do
-* [Healthcare Medicine](https://bslm.org.uk/)
+* [Lifestyle Medicine](https://bslm.org.uk/)
 socical engineering through social media/advertising?
+* Joint replacement
+		* [Inequalities in provision of hip and knee replacement surgery for osteoarthritis by age, sex, and social deprivation in England between 2007–2017: A population-based cohort study of the National Joint Registry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10138460/#:~:text=For%20publicly%20funded%20surgery%2C%20no,were%20observed%20for%20both%20joints.)
 
 ### how to fund it
