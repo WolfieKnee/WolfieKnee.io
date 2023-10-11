@@ -28,8 +28,8 @@ A page to hold blog-like information and pointers to my career history and digit
 
 ## design
 * [standford design school](https://dschool.stanford.edu/)
-* [wild design] (https://en.wilddesign.de/)
-* [frontend design] (https://www.frontend.com/])
+* [wild design](https://en.wilddesign.de/)
+* [frontend design](https://www.frontend.com/])
 * [ideo.u](https://www.ideou.com/collections/courses): resources for Design training, think about looking at syllabuses
 
 ## here are things to do with pivoting to a Digital (Health) Tech Career
