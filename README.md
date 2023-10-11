@@ -39,10 +39,12 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
  * [the coders guild](https://thecodersguild.org.uk/course-directory/#courses)
  * Generation UK
  * the [ddat capability framework](https://ddat-capability-framework.service.gov.uk/) defines skills for different government roles at differnt levels
-### Interesting companies for potential roles
+### Interesting companies 
  * Leeds Teaching Hospitals Trust
  * [Axiologik](https://axiologik.com/work-with-us)
  * [Aire Innovates/Logik ](https://www.airelogic.com/careers#vacancies)
+ * [ortheia](https://www.ortheia.com/)
+ * [Hodgkinson McCambridge](https://hodgkinsonmccambridge.com/)
 ### jobsearch resources
 * [superpower](https://superpower.tech/)
 * [nhs jobs](https://beta.jobs.nhs.uk/candidate/)
@@ -51,3 +53,5 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
  * [simple shared healthcare](https://www.simple.uk.net/)
  * [bitjam](https://bitjam.org.uk/)
  * [green software foundation](https://greensoftware.foundation/)
+ * [nesta](https://www.nesta.org.uk/)
+ * [health innovation yorkshire and humber](https://www.healthinnovationyh.org.uk/) (formally ASHN Y&H)
