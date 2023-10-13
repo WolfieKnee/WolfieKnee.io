@@ -21,10 +21,12 @@ Digitisation of health data is beneficial for individuals (they get better treat
 However, both these tools require accurate human transposition of the data. 
 ### aims: 
 create an app to capture BP reading from a patient monitor (home, primary or secondary care) using vision and push this directly to an EHR?
+
 ### benefits:
   * reduce transposition errors
   * increase uptake of home monitoring
   * enable digitisation of data from existing estate (est. as hundreds-of-thousands) of un-connected monitors already in hospitals, clinics and peoples homes...
+
 ### feasibility:
   * In 2021 a [paper](https://www.frontiersin.org/articles/10.3389/frai.2021.543176/full) was published that demonstrated proof of concept that smartphone technolgy can be used to automate this transposition (the code available via the [BPimageTranscribe github repo](https://github.com/cliffordlab/BPimageTranscribe)).
   * [Florence](https://florence.community/) (or Flo) is text message based system for home blood pressure reporting (Ian McNicoll also told me about this), and there has been a specific [NHS initiative on Home monitoring of blood pressure(BP)](https://www.england.nhs.uk/ourwork/clinical-policy/cvd/home-blood-pressure-monitoring/) _Does this flow directly to an EHR, or could a workflow be created to do so?_
