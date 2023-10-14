@@ -59,7 +59,7 @@ The impact of travel restrictions on the project was mitigated.
 ### 2013/08/01-2017/04/01: Staff Bioengineer
 _DePuy Synthes (a Johnson & Johnson Company), Leeds, UK_
 Leadership for development of surgical instruments and joint replacement implants though design, testing and manufacture.  Global product launch activities including presentations in UK, Italy, South Africa and Japan. Responsible for strategy and execution of external research collaborations. 
-* [Youtube video from Attune product launch](https://youtu.be/_c3wcQgzUNs?si=AehNboT2tCJPoZrs)
+* [youTube video from Attune product launch](https://youtu.be/_c3wcQgzUNs?si=AehNboT2tCJPoZrs)
 
 #### Building trust with remote leadership (FOG)
 
