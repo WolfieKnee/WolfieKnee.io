@@ -37,6 +37,12 @@ The impact of travel restrictions on the project was mitigated.
 
 **Reflection:** These events were made possible due to the collaborative culture of the global organisation. My key contribution was in providing the vision and leadership that the events were possible, and facilitating their sucessful execution by advocating with leadership to meet the needs of the team in doing so.
 
+#### Meeting Diverse User Needs: Unicompartmental Knee Replacement Instruments
+**CHALLENGE:** Through technical analysis of the current market offering a diverse user specification was developed and used to ensure that a representative Surgeon Design Team (SDT) was engaged to provide input to the development project. During formative usability assessments it became clear that two opposing surgical philosophies were in use, and that developing a solution to meet the needs of both user groups could not be achieved within the initial project scope. 
+**ACTION:** By clearly defining these diverse user needs to senior business leadership a change in project scope was agreed, allowing additional resource and effort to be assigned to the project.  
+**RESULT:** This enabled a novel design solution to be developed, which was validated as meeting all user needs. This design is expected to provide a competitive advantage, and has patent protection pending. 
+**REFLECTION** UCD
+
 #### External Research Budget Management
 **Challenge:** 
 **Action:**  
@@ -74,12 +80,13 @@ _DePuy Synthes (a Johnson & Johnson Company), Leeds, UK_
 
 ### 2006/06/01-2008/03/01: New Product Development Engineer
 _Biomet UK Ltd, Swindon, UK_
+Research and development of Knee Replacement Implants and Instruments, including drafting of reports and documentation under the regulatory Quality Management System. Working with cross-functional teams in the UK, USA, Japan and China as well as academic partners.
 - Vanguard(tm) instruments
 - Vangaurd Porous+HA femur
 
 ### 2000-2001: Student Technician, EBME
 _Seimens Healthcare Services, Barnet General Hospital, Barnet, UK_
-12 month placement working for PFI provider in a large NHS hospital. As well as gaining experience of the workplace and technical tasks, this was an invaluable exposure to working in a clinical setting within the NHS. 
+12 month placement working for PFI provider in a large NHS hospital. Repair and preventative maintenance of medical equipment in a clinical setting, working under an ISO9001 quality system. As well as gaining experience of the workplace and technical tasks, this was an invaluable exposure to working in a clinical setting within the NHS. 
 
 ## EDUCATION
 ### 2002 – September 2006: PhD ["Biomechanics of Shaken Baby Syndrome"](https://eprints.nottingham.ac.uk/11217/)
@@ -89,6 +96,7 @@ Application of computational and experimental modelling to investigate mechanism
  
 ### 1998-2002: BEng (hons) in Medical Engineering (thick sandwich course)
 _University of Bradford, UK_
+Medical application of mechanical engineering. Final-year project on external fracture fixation frames.
 
 ## MEMBERSHIPS
 
