@@ -40,7 +40,8 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
  * Generation UK
  * the [ddat capability framework](https://ddat-capability-framework.service.gov.uk/) defines skills for different government roles at differnt levels
 ### Interesting companies 
- * Leeds Teaching Hospitals Trust
+ * Leeds Teaching Hospitals Trust:
+   * [LTHT R&I](https://www.leedsth.nhs.uk/research/)
  * [Axiologik](https://axiologik.com/work-with-us)
  * [Aire Innovates/Logik ](https://www.airelogic.com/careers#vacancies)
  * [ortheia](https://www.ortheia.com/)
