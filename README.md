@@ -50,6 +50,7 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
 * [superpower](https://superpower.tech/)
 * [nhs jobs](https://beta.jobs.nhs.uk/candidate/)
 * [nhs digital jobs](https://jobs.digital.nhs.uk/vacancies/vacancy-search-results.aspx)
+* [Leeds University](* https://jobs.leeds.ac.uk/)
 
 ### organisations
  * [simple shared healthcare](https://www.simple.uk.net/)
