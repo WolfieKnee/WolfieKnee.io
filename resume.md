@@ -1,7 +1,7 @@
 # Resume
 This is not intended as a CV, but a place where I can collect a full resume of experiences which I can pick from an taylor for specific roles. In particular I am working on [CAR stories](https://www.ctp.org.uk/focus/tips-and-advice-5-steps-to-successfully/507910). If you're here and reading it I hope you find it interesting, but please also see my [LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/) and contact me there if you'd like to talk about work opportunities. 
 
-note: I had this saved as a document, but that wasn't very accessible to me, and as I'm trying to 'put everything on the web' as [open innovations](https://open-innovations.org/) reccomend!
+note: I had this saved as a document, but that wasn't very accessible to me, and as I'm trying to 'put everything on the web' as [open innovations](https://open-innovations.org/) reccomend, here it is!
 <!--
 |CAR TEMPLATE|
 |:---|
@@ -99,6 +99,8 @@ _University of Bradford, UK_
 Medical application of mechanical engineering. Final-year project on external fracture fixation frames.
 
 ## MEMBERSHIPS
+* AM[IMechE](https://www.imeche.org/) - CEng interview is booked for Novemebr 2023 and I have been advised that I should be able to convert this to FEng without too much difficulty
+* [ORS](https://www.ors.org/) - Established Member with a number of pressentations
 
 ## TRAINING
 * Fundamentals of Data Science (non-technical), University of Southampton (May 2022)
