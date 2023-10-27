@@ -12,7 +12,7 @@ note: I had this saved as a document, but that wasn't very accessible to me, and
 |**Reflection:** |
 -->
 
-| [EMPLOYMENT HISTORY](#employment-history) | [EDUCATION](#education) | [MEMBERSHIPS](#memberships) | [TRAINING](#training) | [PUBLICATIONS](#publications) | [PATENTS](#patents) |
+| [EMPLOYMENT HISTORY](#employment-history) | [EDUCATION](#education) | [MEMBERSHIPS](#memberships) | [TRAINING](#training) | [RESAERCH](#research) | [PATENTS](#patents) |
 
 ## EMPLOYMENT HISTORY 
 ### 2017/04/01-2023/09/08: Principal Product Development (Bio)engineer
@@ -115,7 +115,9 @@ Medical application of mechanical engineering. Final-year project on external fr
 * Project Management Essentials, Praxis Learning Networks (May 2010)
 
 
-## PUBLICATIONS
+## RESEARCH
 [Research Gate](https://www.researchgate.net/profile/David-Wolfson-8)
+### Grants
+* [Health Holland PPP Allowance Grant: Fixation of total knee replacement implants, UMC st Radboud, Nijmegen, NL] (https://www.health-holland.com/project/2021/2021/fixation-total-knee-replacement-implants)
 
 ## PATENTS
