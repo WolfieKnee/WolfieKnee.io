@@ -15,17 +15,17 @@ links:
     image: /WolfieKnee.io/img/Nc.png
 pages:
   - text: career
-    url: /pages/career/
+    url: /WolfieKnee.io/pages/career/
   - text: resume
-    url: /pages/resume/
+    url: /WolfieKnee.io/pages/resume/
   - text: projects
-    url: /pages/projects/
+    url: /WolfieKnee.io/pages/projects/
   - text: events
-    url: /pages/events/
+    url: /WolfieKnee.io/pages/events/
   - text: interests
-    url: /pages/interests/
+    url: /WolfieKnee.io/pages/interests/
   - text: reading
-    url: /pages/reading/
+    url: /WolfieKnee.io/pages/reading/
   - text: coding
-    url: /pages/coding/
+    url: /WolfieKnee.io/pages/coding/
     
