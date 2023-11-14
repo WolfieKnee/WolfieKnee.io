@@ -34,14 +34,14 @@ jobs:
         with:
           path: '_site'
 
+      #- name: Deploy to GitHub Pages
+      #  id: deployment
+      #  uses: actions/deploy-pages@v1
+          
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
-          
-      #- name: Deploy to GitHub Pages
-       # id: deployment
-       # uses: crazy-max/ghaction-github-pages@v2.0.1
-       # with:
-       #   build_dir: _site
-       # env:
-       #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: crazy-max/ghaction-github-pages@v2.0.1
+        with:
+          build_dir: _site
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
