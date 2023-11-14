@@ -9,9 +9,10 @@ permissions:
   pages: write
   id-token: write
 
-jobs:
+
+jobs:  
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  
 
     steps:
       - name: Clone repository
@@ -36,6 +37,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-        environment:
-          name: github-pages
-          url: ${{steps.deployment.outputs.page_url}}
