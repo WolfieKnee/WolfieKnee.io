@@ -3,10 +3,10 @@ description: putting everything online
 links:
   - text: LinkedIn
     url: https://www.linkedin.com/in/david-wolfson-6149a38
-    image: /img/In-Blue.png
+    image: ../img/In-Blue.png
   - text: GitHub
     url: https://github.com/WolfieKnee/
-    image: /img/github-mark.png
+    image: /WolfieKnee.io/img/github-mark.png
   - text: Research Gate
     url: https://www.researchgate.net/profile/David-Wolfson-8
     image: /img/researchgate-icon.png
