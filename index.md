@@ -3,8 +3,6 @@
 navigation: home
 layout: main.njk
 ---
-A page to hold blog-like information and pointers to my career history and digital portfolio, hosted on [gitHub](https://github.com/WolfieKnee/).
-
 <details>
 <summary> about this page:</summary>
   <ul>
@@ -39,7 +37,7 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
 * [superpower](https://superpower.tech/)
 * [nhs jobs](https://beta.jobs.nhs.uk/candidate/)
 * [nhs digital jobs](https://jobs.digital.nhs.uk/vacancies/vacancy-search-results.aspx)
-* [Leeds University](* https://jobs.leeds.ac.uk/)
+* [Leeds University](https://jobs.leeds.ac.uk/)
 
 ### organisations
  * [simple shared healthcare](https://www.simple.uk.net/)
