@@ -7,7 +7,7 @@ tags:
 ---
 
 
-## resources for getting going with general digital projects
+### resources for getting going with general digital projects
  * a link to my own [gitHub](https://github.com/WolfieKnee/)
  * [MDM JS reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  * [codewars](https://www.codewars.com/)
