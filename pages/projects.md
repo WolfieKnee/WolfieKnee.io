@@ -1,3 +1,9 @@
+---
+title: Interesting Projects 
+navigation: projects
+tags:
+  - Projects
+---
 After 17 years working on research and development of knee replacement devices, my redundancy from DePuy in September 2023 has provided me with the opportunity to consider my future career in healthcare technology. Over recent months I have had many great conversations, some with people I have known most or all of my life, and others with people I have only just met. These conversations have highlighted the importance of considering not only _what_ I do for work, but _why_ I do it. As we move into this period where Data & DHT will have significant societal impact, training is readily available to learn the new skills I need to support _what_ work I do. However, learning about _why_ I do that work is more of a personal exploration. This page is part of that personal exploration, and contains a collection of thoughs, ideas and potential projects that I feel I would highly motived to do, and interesting to work on.
 If any of this interested you enough to get in touch please reach out through [LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn").
 

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="https://unpkg.com/missing.css@1.1.1">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DW: {{ title }}</title>
+</head>
+<body>
+  <main>
+    <header>
+      <h1><a href="">{{ sitetitle }}</a>
+      {# add in links and icons #}      
+      {% for link in links %}
+        <a href="{{ link.url }}"><img src="{{link.image}}" style="height:28px"></a>
+      {% endfor %}
+      </h1>
+    </header>
+    {# add in navigation #}
+    <navigation> |
+      {% for page in pages %}
+        <a href="{{ page.url }}">{{page.text}}</a> | 
+      {% endfor %}
+      
+
+    </navigation>
+    <h2>{{ title }}</h2>
+    {{ content | safe }}
+  </main>
+</body>
+<footer>(C) <a href="https://creativecommons.org/licenses/by/4.0/">CC 4.0</a> By David Wolfson 2023</footer>
+</html>

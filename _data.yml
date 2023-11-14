@@ -1,0 +1,31 @@
+sitetitle: David Wolfson
+description: putting everything online
+links:
+  - text: LinkedIn
+    url: https://www.linkedin.com/in/david-wolfson-6149a38
+    image: /img/In-Blue.png
+  - text: GitHub
+    url: https://github.com/WolfieKnee/
+    image: /img/github-mark.png
+  - text: Research Gate
+    url: https://www.researchgate.net/profile/David-Wolfson-8
+    image: /img/researchgate-icon.png
+  - text: Northcoders
+    url: https://account.northcoders.com/
+    image: /img/Nc.png
+pages:
+  - text: career
+    url: /pages/career/
+  - text: resume
+    url: /pages/resume/
+  - text: projects
+    url: /pages/projects/
+  - text: events
+    url: /pages/events/
+  - text: interests
+    url: /pages/interests/
+  - text: reading
+    url: /pages/reading/
+  - text: coding
+    url: /pages/coding/
+    

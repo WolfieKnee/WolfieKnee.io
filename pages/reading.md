@@ -1,5 +1,12 @@
-a page to keep a list of things I've read, or want to read
+---
+title: Reading List
+navigation: reading
+author: Dave W
+tags:
+  - Reading
 
+---
+<!-- a page to keep a list of things I've read, or want to read -->
 I'm a BIG fan of [Through the Wardrobe](https://www.throughthewardrobebooks.co.uk/), a ~~small~~ tiny independant children's bookshop in Mirfield, West Yorkshire. They are signed up to [bookshop.org](https://uk.bookshop.org/) so wherever I can I'll link to the books in [Through the Wardrobe](https://uk.bookshop.org/shop/WardrobeBooks)'s store - if you can buy through there please do, and supports this local business.
 
 ## adventure

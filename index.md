@@ -1,13 +1,12 @@
-# David Wolfson
-**[LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn")** |
-**[Research Gate](https://www.researchgate.net/profile/David-Wolfson-8)** | **[My Northcoders](https://account.northcoders.com/)**
-
+---
+#title: homepage
+navigation: home
+layout: main.njk
+---
 A page to hold blog-like information and pointers to my career history and digital portfolio, hosted on [gitHub](https://github.com/WolfieKnee/).
 
-| [career](medicalDevices.md) | [resume](resume.md) | [projects](projects.md) | [events](events.md) | [other interests](otherInterests.md) | [reading list](readingList.md) | [coding](coding.md) |
-
 <details>
-<summary> my plan for this page:</summary>
+<summary> about this page:</summary>
   <ul>
   <li>I really like the work and approach that <a href = "https://open-innovations.org/">Open Innovations</a> do so I'd like to emmulate their approach and technology stack in any training or personal projects that I undertake. <a href="https://open-innovations.org/search/?author=lstrange">Luke Strange</a> was kind enough to point me to this overview of the <a href="https://open-innovations.github.io/platform/">Open Innovations Platform</a></li>
   <li>When it is a bit more ready I should redirect my personal url: <a href="davidwolfson.co.uk">davidwolfson.co.uk</a> to this, but for now it can stay pointing to <a href="https://www.linkedin.com/in/david-wolfson-6149a38/">my LinkedIn profile</a></li>
