@@ -30,6 +30,7 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
  * [nesta](https://www.nesta.org.uk/)
  * [health innovation yorkshire and humber](https://www.healthinnovationyh.org.uk/) (formally ASHN Y&H)
  * [leeds digital health](https://leedsdigitalhealth.com/)
+ * [Leeds Academic Health Partnership](https://www.leedsacademichealthpartnership.org/)
 
 <details>
 <summary> about this page:</summary>
