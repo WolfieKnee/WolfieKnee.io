@@ -3,7 +3,7 @@
 navigation: home
 layout: main.njk
 ---
-After 17 years researching and developing knee replacements, I'm really excited about the rapid acceleration of digital health technology and the role of data in healthcare. This website is a bit of a notebook and sandbox for me to explore this space. 
+After 17 years researching and developing knee replacements, I'm really excited about the rapid acceleration of digital health technology and the role of data in healthcare. This website is a bit of a notebook and sandbox for me to explore this space.
 
 ## Things to do with pivoting to a Digital (Health) Tech Career
 I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4kNrJ43kaHIns3qNJZ93_lk/edit?usp=sharing) for my actions on this. (This one is staying private for now, but I'd like to get useful links up publicly for others to see.) 
@@ -24,7 +24,6 @@ I have a [tracker](https://docs.google.com/spreadsheets/d/1gVUXxEQxiFwOGSN3j87z4
 * [nhs jobs](https://beta.jobs.nhs.uk/candidate/)
 * [nhs digital jobs](https://jobs.digital.nhs.uk/vacancies/vacancy-search-results.aspx)
 * [Leeds University](https://jobs.leeds.ac.uk/)
-
 ### organisations
  * [simple shared healthcare](https://www.simple.uk.net/)
  * [bitjam](https://bitjam.org.uk/)
