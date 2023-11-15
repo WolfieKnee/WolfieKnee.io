@@ -14,6 +14,8 @@ links:
     url: https://account.northcoders.com/
     image: /WolfieKnee.io/img/Nc.png
 pages:
+  - text: home
+    url: /WolfieKnee.io/pages/
   - text: career
     url: /WolfieKnee.io/pages/career/
   - text: resume
