@@ -15,7 +15,7 @@ links:
     image: /WolfieKnee.io/img/Nc.png
 pages:
   - text: home
-    url: /WolfieKnee.io/pages/
+    url: /WolfieKnee.io/
   - text: career
     url: /WolfieKnee.io/pages/career/
   - text: resume
