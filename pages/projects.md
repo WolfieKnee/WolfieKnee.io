@@ -8,10 +8,9 @@ After 17 years working on research and development of knee replacement devices, 
 If any of this interested you enough to get in touch please reach out through [LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn").
 
 ## projects
+<!-- change these to be tiles rather than a list... -->
 * [Digtal BP](digitalBP/)
 * [core20PLUS5 in West Yorkshire](core20PLUS5wy/)
-
-
 
 ## useful resources 
 There was a lot of useful learning from #ldf2023 that might help with this, especially the hack at Aire Innovates. 
