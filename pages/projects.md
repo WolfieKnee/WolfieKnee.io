@@ -9,8 +9,10 @@ If any of this interested you enough to get in touch please reach out through [L
 
 ## projects
 <!-- change these to be tiles rather than a list... -->
-<div class="box">[Digtal BP](digitalBP/)</div>
-<div class="box">[core20PLUS5 in West Yorkshire](core20PLUS5wy/)</div>
+<ul>
+  <li class="box"><a href="digitalBP/">Digtial BP</a></li>
+  <li class="box"><a href="core20PLUS5wy/">core20PLUS5 in West Yorkshire</li>
+</ul>
 
 ## useful resources 
 There was a lot of useful learning from #ldf2023 that might help with this, especially the hack at Aire Innovates. 
