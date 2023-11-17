@@ -8,8 +8,8 @@ After 17 years working on research and development of knee replacement devices, 
 If any of this interested you enough to get in touch please reach out through [LinkedIn](https://www.linkedin.com/in/david-wolfson-6149a38/ "LinkedIn").
 
 ## projects
-* [Digtal BP](/WolfieKnee.io/projects/digitalBP)
-* [core20PLUS5 in West Yorkshire](/WolfieKnee.io/projects/core20PLUS5wy)
+* [Digtal BP](projects/digitalBP)
+* [core20PLUS5 in West Yorkshire](projects/core20PLUS5wy)
 
 
 
