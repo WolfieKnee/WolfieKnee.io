@@ -9,7 +9,7 @@ If any of this interested you enough to get in touch please reach out through [L
 
 ## projects
 <!-- change these to be tiles rather than a list... -->
-<ul>
+<ul role="list" class="f-switch dense">
   <li class="box"><a href="digitalBP/">Digtial BP</a></li>
   <li class="box"><a href="core20PLUS5wy/">core20PLUS5 in West Yorkshire</li>
 </ul>
