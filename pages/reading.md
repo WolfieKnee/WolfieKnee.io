@@ -22,6 +22,7 @@ Jimmy Moore & Jason Fung](https://uk.bookshop.org/p/books/the-complete-guide-to-
 * [one minute manager](https://uk.bookshop.org/p/books/the-new-one-minute-manager-kenneth-blanchard/3197887?ean=9780008128043)
 * [ROAR](https://uk.bookshop.org/p/books/roar-how-to-match-your-food-and-fitness-to-your-unique-female-physiology-for-optimum-performance-great-health-and-a-strong-l-stacy-sims/3989793?ean=9781623366865)
 * [three cups of tea](https://g.co/kgs/e27SVV)
+* [invisible women] (https://www.wob.com/en-gb/books/caroline-criado-perez/invisible-women/9781784741723) suggestion from Al Mercer
 ## medical devices
 * paper from Rae Cowie at Leeds [The influence of lubricant temperature on the wear of total knee replacements](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/bsb2.12061)
 * [Innovate UK West Yorkshire Action plan](https://iuk.ktn-uk.org/wp-content/uploads/2023/02/Innovate-UK_West-Yorkshire-Action-Plan_DIGITAL_TW_D1.pdf)
