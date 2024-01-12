@@ -5,6 +5,16 @@ author: Dave W
 tags:
   - code
 ---
+### What I use
+* [ubuntu](https://ubuntu.com/)
+* [Eden repair centre](https://edenrepaircentre.co.uk/) are a great source for good value equipment
+* [VSCode](https://code.visualstudio.com/) with the following extensions
+  * [Prettier](https://prettier.io/docs/en/editors.html)
+  * Spell
+  * Indent Rainbow 
+  
+* [Obsidian](https://obsidian.md/) with extensions
+  * [exaclidraw](https://excalidraw.com/)
 
 ### resources for getting going with general digital projects
 * [MDM JS reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -18,8 +28,7 @@ tags:
 * [shell workshop](https://www.udacity.com/course/shell-workshop--ud206)
 * this page gives infromation on adding [diagrams with mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)... I could get into this!
 
-### Tools
-* [exaclidraw](https://excalidraw.com/)
+
 
 ### Data sources
 https://datamillnorth.org/
