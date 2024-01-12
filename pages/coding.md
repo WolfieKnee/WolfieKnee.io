@@ -10,9 +10,8 @@ tags:
 * [Eden repair centre](https://edenrepaircentre.co.uk/) are a great source for good value equipment
 * [VSCode](https://code.visualstudio.com/) with the following extensions
   * [Prettier](https://prettier.io/docs/en/editors.html)
-  * Spell
-  * Indent Rainbow 
-  
+  * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+  * [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) 
 * [Obsidian](https://obsidian.md/) with extensions
   * [exaclidraw](https://excalidraw.com/)
 
